@@ -618,6 +618,7 @@ static const size_t kModifierEventTypeSpecSize = sizeof(kModifierEventTypeSpec) 
     
     previouslyActiveAppPath = nil;
     isHidden = true;
+	isPinned = true;
     isMain = false;
     isKey = false;
     
